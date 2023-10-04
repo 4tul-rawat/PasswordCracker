@@ -1,2 +1,2 @@
 # PasswordCracker
-This is a simple password cracker tool.
+This is a simple password cracker tool made in Python.
